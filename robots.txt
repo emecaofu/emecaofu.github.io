@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emecaofu.github.io/GbX/sitemap_index.txt
+Sitemap: https://emecaofu.github.io/XOw/sitemap_index.txt
+Sitemap: https://emecaofu.github.io/htF/sitemap_index.txt
+Sitemap: https://emecaofu.github.io/rgu/sitemap_index.txt
